@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Erica 👋</h1>
+<h1 align="center">Olá, eu sou a Érica 👋</h1>
 <p align="center">
   💻 Developer | Apaixonada por tecnologia, automação e dados
 </p>
