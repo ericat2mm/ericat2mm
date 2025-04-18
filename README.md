@@ -35,38 +35,6 @@ Atualmente, estou à procura de uma **oportunidade full-time e remota** nas áre
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
-## 🚀 Projetos
-
-<details>
-  <summary><strong>🔧 42-Porto</strong></summary>
-  <ul>
-    <li><a href="https://github.com/ericat2mm/42-Porto/tree/main/piscine">Piscine</a>: Exercícios intensivos em C.</li>
-    <li><a href="https://github.com/ericat2mm/CommonCore42">Common Core</a>: Projetos base do currículo 42.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>💡 Arduino & Eletrónica</strong></summary>
-  <ul>
-    <li><a href="https://github.com/ericat2mm/NOME-DO-PROJETO">Projeto X</a>: Descrição curtinha e gira.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>📊 Data Analysis</strong></summary>
-  <ul>
-    <li><a href="https://github.com/ericat2mm/NOME-DO-PROJETO">Análise de Dados com Python e Pandas</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>🐍 Python</strong></summary>
-  <ul>
-    <li><a href="https://github.com/ericat2mm/NOME-DO-PROJETO">Jogo da Forca</a></li>
-    <li><a href="https://github.com/ericat2mm/NOME-DO-PROJETO">Mini Bot Telegram</a></li>
-  </ul>
-</details>
-
 ### 📫 Onde me encontrar
 - 📧 ericat2m@gmail.com
 - 📍 Coimbra, Portugal
