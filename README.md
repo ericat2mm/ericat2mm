@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou a Érica 👋</h1>
 <p align="center">
-  💻 Developer | Apaixonada por tecnologia, automação e dados
+  💻 Junior Developer | Apaixonada por tecnologia, automação e dados
 </p>
 
 ---
