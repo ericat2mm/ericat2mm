@@ -10,7 +10,7 @@
 Sou uma jovem desenvolvedora com uma paixão por resolver problemas com código, explorar novas tecnologias e aprender constantemente. Tenho experiência prática em **C, Python, SQL, Shell Script e Arduino**, com formação sólida em engenharia, bootcamp de análise de dados e programação intensiva na 42 Porto.
 
 Atualmente, estou à procura de uma **oportunidade full-time e remota** nas áreas de:
-- **Desenvolvimento** (Python, automações, backend, scripts)
+- **Desenvolvimento** (C,Python, automações, backend, scripts)
 - **Análise de Dados** (Power BI, SQL, Azure, Pandas, visualização)
 
 ---
